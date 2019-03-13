@@ -20,4 +20,4 @@ This scenario is termed as under-fitting (Highly Biased Model as model results a
 
 To give a brief example about it, I have included video which explains polynomial regression using Boston Housing Dataset Example.
 
-Here is the link to it:  https://www.youtube.com/watch?v=Vgb9XFa7YyQ&feature=youtu.be
+Here is the link to it:  https://youtu.be/Vgb9XFa7YyQ
